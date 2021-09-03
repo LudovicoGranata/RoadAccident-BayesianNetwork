@@ -1,6 +1,6 @@
 # A Bayesian Network to model road accident in the metropolitan city of Bologna
 
-##Introduction
+## Introduction
 Nowadays road accident are one of the leading cause of death, especially between
 young people. Each year, 1.35 million people are killed on roadways around the
 world. It is estimated that fatal and nonfatal crash injuries will cost the world
@@ -12,7 +12,7 @@ providing a model that can give probabilistic results given some input evidence.
 This project was inspired by a paper by Xin Zou and Wen Long Yue from the
 University of Australia.
 
-##The Dataset
+## The Dataset
 The data to compute the conditional probability table of the model are taken
 from ISTAT (Italian National Institute of Statistics) in the form of microdata
 that is data on the characteristics of units of a population, such as individuals
